@@ -12,4 +12,8 @@ gcc -c *.c && gcc *.o -o <binary file name>
 #### USAGE
 - [binary file name] [output file name] [width] [height [blur radius] [blur iterations] [seed]
 
-![alt text](https://raw.githubusercontent.com/isubasinghe/HeightMapGenerator/blob/master/image.png)
+![Example of 2D heightmap](https://github.com/isubasinghe/HeightMapGenerator/raw/master/heightmap.png)
+
+![Example of 3D terrain](https://github.com/isubasinghe/HeightMapGenerator/raw/master/image.png)
+
+These can be blurred more or less, depending on your desired "flatness"
