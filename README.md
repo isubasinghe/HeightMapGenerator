@@ -10,5 +10,5 @@ A simple height map generator.
 gcc -c *.c && gcc *.o -o <binary file name>
 
 #### USAGE
-./<binary file name> <output file name> <width> <height> <blur radius> <blur iterations> <seed>
+<binary file name> <output file name> <width> <height> <blur radius> <blur iterations> <seed>
 
