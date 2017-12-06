@@ -7,7 +7,7 @@ A simple height map generator.
 - Should be able to save memory by using the png24 format instead of png32, furthermore we could exclude using grid_t and directly using the png24/32 buffer instead.
 
 #### COMPILING
-gcc -c *.c && gcc *.o -o <binary file name>
+gcc -c *.c && gcc *.o -o [binary file name]
 
 #### USAGE
 - [binary file name] [output file name] [width] [height [blur radius] [blur iterations] [seed]
